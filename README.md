@@ -1,4 +1,4 @@
-### Why MirrorBottle :confused: ? Even I don't know
+### Why MirrorBottle :confused: Even I don't know
 Hi, there. Name is Bayu Setiawan, the frontend developer who can handle some stuff on the backend, and I'm from Indonesia.
 
 
